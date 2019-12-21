@@ -3,9 +3,9 @@
 ## make another user to store volumes
     
 ```
-    adduser pyholead \
-    --home /opt/pyhole
-    --shell bash
+    adduser pyhole \
+    --home /opt/pyhole \
+    --shell /bin/bash
 
 ```
 
